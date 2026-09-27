@@ -21,7 +21,7 @@ export const HostPartnerBanner: React.FC<HostPartnerBannerProps> = ({ onOpenPart
           {/* Background image subtle overlay */}
           <div className="absolute inset-0 z-0 opacity-20 pointer-events-none">
             <img
-              src="/src/assets/images/darjeeling_mountain_biking_1790533247961.jpg"
+              src="/assets/images/darjeeling_mountain_biking_1790533247961.jpg"
               alt="Darjeeling Mountain Background"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

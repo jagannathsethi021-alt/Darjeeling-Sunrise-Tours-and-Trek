@@ -110,7 +110,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onExploreFleet }) =>
             <div className="lg:col-span-6 relative">
               <div className="relative rounded-2xl overflow-hidden aspect-[16/11] border border-slate-700/80 shadow-2xl group">
                 <img
-                  src="/src/assets/images/darjeeling_mountain_biking_1790533247961.jpg"
+                  src="/assets/images/darjeeling_mountain_biking_1790533247961.jpg"
                   alt="Darjeeling Sunrise Tours and Trek Mountain Bikes"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

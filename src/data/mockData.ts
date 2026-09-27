@@ -134,7 +134,7 @@ export const VEHICLES: Vehicle[] = [
       'Tripper Navigation & Mobile Charger',
       'Sandakphu & Sikkim High-Altitude Tuned',
     ],
-    imageUrl: '/src/assets/images/hero_bike_darjeeling_1790533232466.jpg',
+    imageUrl: '/assets/images/hero_bike_darjeeling_1790533232466.jpg',
     isPopular: true,
     minBookingDays: 1,
   },
@@ -160,7 +160,7 @@ export const VEHICLES: Vehicle[] = [
       'Mobile Phone Mount & USB Charger',
       'Bungee Cords & Puncture Kit Included',
     ],
-    imageUrl: '/src/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
+    imageUrl: '/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
     isPopular: true,
     minBookingDays: 1,
   },
@@ -186,7 +186,7 @@ export const VEHICLES: Vehicle[] = [
       'Heavy Low-end Torque for Rohini & Ghum Climbs',
       'Luggage Rack for Mountain Backpacks',
     ],
-    imageUrl: '/src/assets/images/motorcycle_tourer_1790513148863.jpg',
+    imageUrl: '/assets/images/motorcycle_tourer_1790513148863.jpg',
     isPopular: true,
     minBookingDays: 1,
   },
@@ -213,7 +213,7 @@ export const VEHICLES: Vehicle[] = [
       'Deep Underseat Storage for Jackets & Shopping',
       'Easy Electric Start in Chilly Darjeeling Mornings',
     ],
-    imageUrl: '/src/assets/images/scooter_urban_ev_1790513163337.jpg',
+    imageUrl: '/assets/images/scooter_urban_ev_1790513163337.jpg',
     isPopular: true,
     minBookingDays: 1,
   },
@@ -265,7 +265,7 @@ export const VEHICLES: Vehicle[] = [
       'Onboard Google Maps TFT Display',
       'Silent Glide through Tea Gardens',
     ],
-    imageUrl: '/src/assets/images/scooter_urban_ev_1790513163337.jpg',
+    imageUrl: '/assets/images/scooter_urban_ev_1790513163337.jpg',
     isPopular: false,
     minBookingDays: 1,
   },
@@ -292,7 +292,7 @@ export const VEHICLES: Vehicle[] = [
       'Gas-Charged Rear Monoshock',
       'All-in-One Central Key Lock',
     ],
-    imageUrl: '/src/assets/images/scooter_urban_ev_1790513163337.jpg',
+    imageUrl: '/assets/images/scooter_urban_ev_1790513163337.jpg',
     isPopular: false,
     minBookingDays: 1,
   },
@@ -319,7 +319,7 @@ export const VEHICLES: Vehicle[] = [
       'Golden USD Front Forks',
       'Bluetooth Smartphone Y-Connect',
     ],
-    imageUrl: '/src/assets/images/motorcycle_tourer_1790513148863.jpg',
+    imageUrl: '/assets/images/motorcycle_tourer_1790513148863.jpg',
     isPopular: false,
     minBookingDays: 1,
   },
@@ -332,7 +332,7 @@ export const CATEGORIES = [
     fleetCount: '45+ In Darjeeling Fleet',
     description: 'Royal Enfield Himalayan 450 & Scram machines built for Sandakphu, Tiger Hill, and Sikkim high altitude...',
     ctaText: 'View All Tourers >',
-    imageUrl: '/src/assets/images/hero_bike_darjeeling_1790533232466.jpg',
+    imageUrl: '/assets/images/hero_bike_darjeeling_1790533232466.jpg',
   },
   {
     id: 'bikes',
@@ -340,7 +340,7 @@ export const CATEGORIES = [
     fleetCount: '120+ In Darjeeling Fleet',
     description: 'Classic 350, Hunter 350 & Meteor roadsters with heavy low-end torque for steep hill climbs...',
     ctaText: 'View All Enfields >',
-    imageUrl: '/src/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
+    imageUrl: '/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
   },
   {
     id: 'scooters',
@@ -348,7 +348,7 @@ export const CATEGORIES = [
     fleetCount: '75+ In Darjeeling Fleet',
     description: 'Honda Activa 6G, TVS Jupiter 125, and Ather 450X electric for effortless town and tea garden rides...',
     ctaText: 'View All Scooters >',
-    imageUrl: '/src/assets/images/scooter_urban_ev_1790513163337.jpg',
+    imageUrl: '/assets/images/scooter_urban_ev_1790513163337.jpg',
   },
   {
     id: 'sport',
@@ -356,7 +356,7 @@ export const CATEGORIES = [
     fleetCount: '35+ In Darjeeling Fleet',
     description: 'KTM Duke 250 and Yamaha MT-15 with agile hairpin handling and high ground clearance...',
     ctaText: 'View Sport Bikes >',
-    imageUrl: '/src/assets/images/motorcycle_tourer_1790513148863.jpg',
+    imageUrl: '/assets/images/motorcycle_tourer_1790513148863.jpg',
   },
 ];
 
@@ -379,7 +379,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
     permitRequired: false,
     description:
       'Darjeeling Sunrise Tours and Trek central station at 19, HD Lama Rd, Chauk Bazaar. Instant key collection, 2 sanitized helmets, puncture kit, and digital KYC.',
-    imageUrl: '/src/assets/images/hero_bike_darjeeling_1790533232466.jpg',
+    imageUrl: '/assets/images/hero_bike_darjeeling_1790533232466.jpg',
   },
   {
     id: 'tiger-hill-sunrise',
@@ -399,7 +399,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
     permitRequired: false,
     description:
       'The crown jewel of Darjeeling rides! Set out at 4:00 AM from our HD Lama Road hub to catch the first rays of the sun turning the snow peaks of Kanchenjunga into molten gold.',
-    imageUrl: '/src/assets/images/hero_bike_darjeeling_1790533232466.jpg',
+    imageUrl: '/assets/images/hero_bike_darjeeling_1790533232466.jpg',
   },
   {
     id: 'mirik-lake',
@@ -419,7 +419,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
     permitRequired: false,
     description:
       'A rider’s dream route gliding over scenic mountain ridges with lush green tea bushes on both sides and cool alpine air. Cross into Pashupati border for shopping.',
-    imageUrl: '/src/assets/images/mountain_road_fleet_1790513175013.jpg',
+    imageUrl: '/assets/images/mountain_road_fleet_1790513175013.jpg',
   },
   {
     id: 'sandakphu-singalila',
@@ -441,7 +441,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
       'Singalila National Park entry permit issued at Manebhanjan Forest Checkpost. We provide full vehicle registration & commercial self-drive NOC.',
     description:
       'For true adventure riders! Conquer the legendary ridge overlooking four of the five highest peaks in the world (Everest, Kanchenjunga, Lhotse, Makalu).',
-    imageUrl: '/src/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
+    imageUrl: '/assets/images/darjeeling_mountain_biking_1790533247961.jpg',
   },
   {
     id: 'lamahatta-kalimpong',
@@ -481,7 +481,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
     permitRequired: false,
     description:
       'A relaxed half-day ride following the legendary Himalayan Toy Train railway line up to Ghum. Perfect for easy scooter exploring and photography.',
-    imageUrl: '/src/assets/images/motorcycle_tourer_1790513148863.jpg',
+    imageUrl: '/assets/images/motorcycle_tourer_1790513148863.jpg',
   },
 ];
 

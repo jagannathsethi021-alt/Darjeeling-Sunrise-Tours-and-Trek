@@ -183,7 +183,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
           >
             <div className="relative rounded-2xl sm:rounded-3xl overflow-hidden shadow-xl sm:shadow-2xl bg-slate-900 border border-slate-100 aspect-[4/3] group">
               <img
-                src="/src/assets/images/hero_bike_darjeeling_1790533232466.jpg"
+                src="/assets/images/hero_bike_darjeeling_1790533232466.jpg"
                 alt="Royal Enfield Mountain Touring in Darjeeling"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
