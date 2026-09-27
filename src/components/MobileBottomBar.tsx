@@ -18,7 +18,7 @@ export const MobileBottomBar: React.FC<MobileBottomBarProps> = ({
       initial={{ y: 80, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.35, ease: [0.16, 1, 0.3, 1] }}
-      className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/80 shadow-[0_-8px_25px_rgba(0,0,0,0.08)] px-3 py-2.5"
+      className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/80 shadow-[0_-8px_25px_rgba(0,0,0,0.08)] px-3 pt-2 pb-[max(0.75rem,env(safe-area-inset-bottom))]"
     >
       <div className="flex items-center gap-2 max-w-md mx-auto">
         {/* Direct Call Desk */}
