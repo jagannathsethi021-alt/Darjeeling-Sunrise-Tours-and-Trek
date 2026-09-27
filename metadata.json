@@ -1,0 +1,6 @@
+{
+  "name": "Darjeeling Sunrise Tours and Trek - Bike & Scooter Rentals",
+  "description": "Rent Royal Enfield bikes, mountain tourers, and scooters in Darjeeling with zero security deposit. Main office at 19, HD Lama Rd, Chauk Bazaar, Darjeeling 734101. Phone: 086373 62969.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
