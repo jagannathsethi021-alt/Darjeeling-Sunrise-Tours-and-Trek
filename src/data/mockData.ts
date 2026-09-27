@@ -239,7 +239,7 @@ export const VEHICLES: Vehicle[] = [
       'High Power-to-Weight Mountain Ratio',
       'Supermoto ABS Mode',
     ],
-    imageUrl: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=800&q=80',
+    imageUrl: '/assets/images/motorcycle_tourer_1790513148863.jpg',
     isPopular: false,
     minBookingDays: 1,
   },
@@ -461,7 +461,7 @@ export const ROUTE_GUIDES: RouteGuide[] = [
     permitRequired: false,
     description:
       'Ride under the shade of giant Himalayan pines and feel the serenity of fluttering Tibetan prayer flags along the scenic Peshok mountain road.',
-    imageUrl: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80',
+    imageUrl: '/assets/images/mountain_road_fleet_1790513175013.jpg',
   },
   {
     id: 'ghum-batasia',
